@@ -1,0 +1,6 @@
+Epoch  500  D_loss: 0.5905  G_loss: 0.8306
+Epoch 1000  D_loss: 0.5080  G_loss: 1.0517
+Epoch 1500  D_loss: 0.4742  G_loss: 1.2374
+Epoch 2000  D_loss: 0.4537  G_loss: 1.3762
+Runtime: 11.3s
+Saved /Users/matsumura-tao/sources/imai-lab/generative-models/gan/gan_results.png

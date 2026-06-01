@@ -1,0 +1,15 @@
+Epoch  100  ELBO: 0.3242
+Epoch  200  ELBO: 0.3275
+Epoch  300  ELBO: 0.3241
+Epoch  400  ELBO: 0.3192
+Epoch  500  ELBO: 0.3210
+
+Final ELBO: 0.3210  (runtime: 1.7s)
+
+--- Per-class reconstruction MSE ---
+  Class 0: MSE = 0.1569
+  Class 1: MSE = 0.1529
+  Class 2: MSE = 0.1633
+  Class 3: MSE = 0.1523
+
+Saved /Users/matsumura-tao/sources/imai-lab/generative-models/vae/cvae_results.png

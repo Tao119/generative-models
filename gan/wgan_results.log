@@ -1,0 +1,26 @@
+=== Training DCGAN (reference) ===
+
+=== Training WGAN-GP ===
+  Step  500  W-dist ≈ -18.6719
+  Step 1000  W-dist ≈ -116.3865
+  Step 1500  W-dist ≈ -252.8018
+  Step 2000  W-dist ≈ -388.1341
+  Step 2500  W-dist ≈ -477.8748
+  Step 3000  W-dist ≈ -539.1682
+
+Runtime: 7.3s
+
+=== W-distance at intervals (WGAN-GP) ===
+  Step 500: -18.6719
+  Step 1000: -116.3865
+  Step 1500: -252.8018
+  Step 2000: -388.1341
+  Step 2500: -477.8748
+  Step 3000: -539.1682
+
+=== Distribution quality (std comparison) ===
+  Real std:   [2.0204667  2.03213857]
+  DCGAN std:  [1.92109666 1.92562891]
+  WGAN-GP std:[0.24154102 0.22774704]
+
+Saved /Users/matsumura-tao/sources/imai-lab/generative-models/gan/wgan_results.png
